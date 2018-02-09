@@ -1,0 +1,44 @@
+body {
+  background-color: #263238;
+  font-family: 'Ubuntu', sans-serif;
+}
+.header {
+  background-color: #FDD835;
+  font-family: 'Dancing Script', cursive !important;
+}
+.show_weather {
+  margin-top: 50px;
+  color: white !important;
+}
+#heading {
+  font-size: 65px !important;
+}
+h1 {
+  margin-top: 10px !important;
+}
+#weather_icon img {
+  max-height: 125px !important;
+  width: auto;
+  margin-left: auto;
+	margin-right: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+	display: block;
+  margin-top: 5px;
+}
+.center-button {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 205px !important;
+}
+.center-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.btn {
+  width: 100px !important;
+}
