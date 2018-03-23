@@ -42,3 +42,9 @@ h1 {
 .btn {
   width: 100px !important;
 }
+.col-md-3 {
+  width: 25vw !important;
+}
+.col-md-6 {
+  width: 50vw !important;
+}
