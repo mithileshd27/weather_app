@@ -47,4 +47,6 @@ h1 {
 }
 .col-md-6 {
   width: 50vw !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
 }
